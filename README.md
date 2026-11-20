@@ -1,5 +1,16 @@
-<details>
-<summary>🇨🇿 Čeština</summary>
+<p align="center">
+  <a href="#-čeština">🇨🇿 Čeština</a> ·
+  <a href="#-slovenčina">🇸🇰 Slovenčina</a> ·
+  <a href="#-english">🇬🇧 English</a> ·
+  <a href="#-polski">🇵🇱 Polski</a> ·
+  <a href="#-deutsch">🇩🇪 Deutsch</a>
+</p>
+
+<p align="center">
+  <a href="#-slovenčina">🏠 Domů / Hlavná stránka / Home</a>
+</p>
+
+## 🇨🇿 Čeština
 
 # Ahoj, jsem TondIQ 👋
 
@@ -10,10 +21,9 @@ Tvořím projekty a zkouším nové nápady.
 
 Další projekty mám rozpracované.
 
-</details>
+---
 
-<details>
-<summary>🇸🇰 Slovenčina</summary>
+## 🇸🇰 Slovenčina
 
 # Ahoj, som TondIQ 👋
 
@@ -24,10 +34,9 @@ Tvorím projekty a skúšam nové nápady.
 
 Ďalšie projekty mám rozpracované.
 
-</details>
+---
 
-<details>
-<summary>🇬🇧 English</summary>
+## 🇬🇧 English
 
 # Hi, I'm TondIQ 👋
 
@@ -38,10 +47,9 @@ I build projects and explore new ideas.
 
 I have other projects in progress.
 
-</details>
+---
 
-<details>
-<summary>🇵🇱 Polski</summary>
+## 🇵🇱 Polski
 
 # Cześć, jestem TondIQ 👋
 
@@ -52,10 +60,9 @@ Tworzę projekty i eksperymentuję z nowymi pomysłami.
 
 Pracuję też nad innymi projektami.
 
-</details>
+---
 
-<details>
-<summary>🇩🇪 Deutsch</summary>
+## 🇩🇪 Deutsch
 
 # Hallo, ich bin TondIQ 👋
 
@@ -65,5 +72,3 @@ Ich entwickle Projekte und probiere neue Ideen aus.
 - [PlanetySim](https://github.com/TondIQ/PlanetySim)
 
 Weitere Projekte sind in Arbeit.
-
-</details>
